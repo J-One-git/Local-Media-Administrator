@@ -25,3 +25,6 @@ https://github.com/J-One-git/Local-Media-Administrator/releases/latest
 
 
 LMA is an early public release and will continue to improve based on user feedback.
+
+Refund policy:
+7-day refund window if the software does not function as described.
