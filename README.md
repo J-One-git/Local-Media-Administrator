@@ -11,7 +11,8 @@ LMA is a lightweight Windows app for browsing large local video libraries with a
 - Fully offline (your files never leave your computer)
 
 ## Download
-➡️ Go to **Releases** and download the latest installer.
+👉 **Download LMA v1.8.83**
+https://github.com/J-One-git/Local-Media-Administrator/releases/latest
 
 ## Lite vs Pro
 - Lite: up to 300 videos / 20 tags / 3 playlists
@@ -20,3 +21,5 @@ LMA is a lightweight Windows app for browsing large local video libraries with a
 ## System Requirements
 - Windows 10 / 11
 - SSD recommended for large libraries
+
+LMA is an early public release and will continue to improve based on user feedback.
