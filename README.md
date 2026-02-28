@@ -22,4 +22,6 @@ https://github.com/J-One-git/Local-Media-Administrator/releases/latest
 - Windows 10 / 11
 - SSD recommended for large libraries
 
+
+
 LMA is an early public release and will continue to improve based on user feedback.
